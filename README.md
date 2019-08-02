@@ -19,9 +19,10 @@
 ---
 
 # スキル
-## AWS
+## AWS系
 EC2  
 S3  
+RDS  
 CodePipeline  
 CodeCommit  
 CodeBuild  
@@ -30,9 +31,10 @@ CodeDeploy
 Apache 2  
 Nginx  
 ## 言語　フレームワーク 
-php 5 
+php 5  
 Laravel 5  
-Ruby 2
+Cakephp 2  
+Ruby 2  
 Ruby on Rails 5  
 ## OS / Container
 Docker 2  
